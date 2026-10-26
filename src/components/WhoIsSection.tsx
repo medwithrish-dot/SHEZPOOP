@@ -128,11 +128,11 @@ export const WhoIsSection: React.FC = () => {
 
             <div style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem', color: 'var(--color-cream-soft)', fontSize: '1.05rem', lineHeight: 1.7 }}>
               <p className="reveal-up stagger-child">
-                She was not sculpted by gods; she was forged in the chaotic crucible of unhinged group chats, unprovoked toilet threats, and unyielding frontend determination. Long before she assumed the legendary title of <strong>SHEZPOOP</strong>, she walked among mortals under the deceptive civilian pseudonym of <strong>Mayk</strong>.
+                Forged in the chaotic crucible of unhinged group chats, unprovoked toilet threats, and unyielding frontend determination, Mayk was never one to back down from a ridiculous challenge. Long before she assumed the legendary title of <strong>SHEZPOOP</strong>, she was known simply under the civilian pseudonym of <strong>Mayk</strong>.
               </p>
 
               <p className="reveal-up stagger-child">
-                The watershed moment arrived during the fateful Discord parley with the sovereign monarch of sewage himself: <strong>Poopboy</strong> (@Xizaterasu). When challenged to code, Mayk did not waver. She declared to the heavens: <em>"I'll acc make a website for ur poop."</em> Thus, the sacred covenant was sealed.
+                The watershed moment arrived during the fateful Discord parley with the sovereign monarch of sewage himself: <strong>Poopboy</strong> (@Xizaterasu). When challenged to code, Mayk did not waver. She declared boldly to the entire chat: <em>"I'll acc make a website for ur poop."</em> Thus, the pact was sealed.
               </p>
 
               <p className="reveal-up stagger-child">
